@@ -8,3 +8,4 @@ while (contador <= num) {
     document.write (nombre + "<br>");
     contador++;
 }
+// hola
